@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://slope-run-2.github.io/sitemap.xml
